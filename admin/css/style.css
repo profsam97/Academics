@@ -1,0 +1,26 @@
+.ver{
+    min-height: 614px;
+    max-height: 870px;
+}
+.atags a {
+    text-decoration-line: none !important;
+    white-space: nowrap;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.atags a :hover{
+    color:#3c3b37 !important;
+}
+.me{
+    text-decoration: none !important;
+    text-decoration-line: none !important;
+}
+body{
+    overflow-x: hidden;
+}
+.font{
+    font-size: 33px;
+}
+.color{
+    background-color: #dee2e6;
+}

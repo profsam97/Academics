@@ -1,0 +1,69 @@
+Your own Name,Name of firm,Location,Phone Number of boss
+Ajayi Bolarinwa ,Zacrac Integrated Limited ,"Sovereign Trust building, Alagbaka Akure. ",7060737565
+Adegbite Samuel Adetona,Osoft Integrated Resources,"Block 5, House 1 Ilesha Close, Area 3, Garki, Abuja",08068418678  Mr. Funsho
+Dolapo Johnson,Cyberspace Limited,"33 Saka Tinubu, Victoria Island, Lagos.",9076555460
+Kolawole Oluwasegun,Greenlab Microfactory,"5, Stateline, green garage, FUTA south gate Akure",+49 1521 6639947
+Adegbamigbe Oluwasekemi ,Shokenny Solutions Limited,"P16, Cuda complex, opposite klick Konnect, beside GTBank, Alagbaka, Akure",08038065089 - Mr Shola Kehinde
+Ayeoyenikan Temitayo Elizabeth,Trep Labs Technologies,"No 5, I.K Peters Street Ajao Estate, Opposite Mobile Fuel Station, Off Airport Road.",8063537984
+Olafisoye Tobiloba,CENTER4TECH,"2a, Ralex Glass house off Acme road, Ogba, Lagos.",8164288610
+Akinsola Olabiyi,Inlaks limited,"Ochendo House, Plot 6 Cocoa Industrial Layout Ogba Ikeja, Lagos.",7038118089
+Akinlabi Tolulope Elijah,Fireswitch Technologies,"3rd Floor, Favos Building, off Kenneth-Dike Road, Bodija, Ibadan.",8037837313
+Akintoye Oluwapelumi,Shokenny solutions,"P16, cuda complex, Alagbaka Akure. Ondo state",8151613288
+Ogunruku oluwaseun,Simplex business solutions ,"28 Gbolade Adebanjo st, ilupeju, Lagos",8131141909
+Williams Ayomide ,BSES(Broadcasting service of Ekiti-state) ,Ilokun Road Ado-Ekiti Ekiti-state ,8068918513
+Marvellous Olatuja,Entrepose DBN,"7th Floor, CBC Towers. 13 olubunmi owa street, Lekki Phase 1",8059181044
+Agunbiade Olamide Paul ,Computer Resource Center  (CRC) FUTA,FEDERAL UNIVERSITY OF TECHNOLOGY AKURE,Engr G. O. Daramola      08032205987
+ AKINSEINDE VICTOR,Lagos state secretariat ,"ICT Unit, Ministry of Education, Aluasa ikeja, Lagos.",8033318840
+ Nwachukwu Uche Esther,Nigerian Airspace Management Agency,"Airport road, opposite MM2, ikeja",08055096214 Mrs Samira Onusi
+Fadipe Abiola,Longbridge Technologies,"Block 300, Dalimoore Street, Ijapo Estate, Akure, Ondo State",08034423619 Mr. Martin
+Odeleke Fiyinfolu,Longbridge Technologies ,"Block 300 Dallimore street, Ijapo Estate Akure",Mr Martin Alalibo 08034423619
+Ogunjobi feranmi,CWG-PLC,"Plot 54b Off Rufus Giwa Street, Off Adebayo Doherty Street, Off Admiralty. Lekki Phase 1, Adebayo Doherty Rd, Lagos",07034171896 Mr francis
+Agunbiade Itunu C.,"Federal Polytechnic, Ado-Ekiti(Computer Science Department)","Federal Polytechnic road, Ado-Ekiti",8066225029
+OLADIPO OLUWASEUN JOSEPH ,"COMPUTER RESOURCE CENTRE, FUTA","FEDERAL UNIVERSITY OF TECHNOLOGY, AKURE, OPPOSITE SCHOOL LIBRARY ",8032205987
+Gbadamosi Ayomide,Federal Ministry of Power ,Abuja,9034710448
+Fayemi oluwaferanmi marvelous ,Digitel Technologies ,"37, Opposite Providence court, Ajibade,  Mokola-sango road, Ibadan",07033221039 -Mr Diekola Ayoola
+Akinwande Iyanuoluwa,Fireswitch Technologies,"Bodija,Ibadan",8037837313
+Daramola kayode Anthony ,Bureau of ICT. Ekiti state governor's office ,Ekiti state government house ,8063633223
+Alli Olayinka T,Federal Airport authority of Nigeria ,"Ict department Faan headquarters, ikeja Lagos ","08023744908, Mr Uzor."
+Abolarinwa Quadri ,Wabtech I. T Consultant ,"Apete ijoko do, Ibadan oyo state",8033986912
+Olorunfemi Oluwaseun Victory ,MUL-T LOCK NIGERIA LIMITED,"58B, MORISSON CRESENT OFF KUDIRAT ABIOLA WAY, OREGUN. LAGOS.",7066453155
+Benjamin Masebinu,Start up builder,"17, Toyin Street, Ikeja Lagos",+447712423130
+Akinola Ayodeji,Patricia Technologies,"No 2, Swiss Trade Drive, ikota First Gate, Lekki-Epe Expressway , Lagos",7052483404
+Eze Chukwuka Victor ,Computer Resource Center ,"Federal University of Technology, Akure, Ondo State. ",08032205987 (Engr Daramola)
+Omojola Feranmi,Tech Champions Web and Mobile Solutions ,"89, Allen Avenue, Polaris Bank Building, Ikeja, Lagos.",8163276540
+Yusuf Soyonga ,Nigerian Airspace Management Agency ,"Airport road, opposite MM2, ikeja",8055096214
+Salako Morenikeji Elizabeth,Eric loxx,"14, Apostolic Faith, Ahmadiyya b/stop Abule egba, Lagos State",7065448129
+Oyewole Abisola Rukayat,Global I.T Solution,"No. 28 Oyo Road, leventis Bus stop, Sango-U.I Road, Ibadan.","08060451149, 08104403347"
+OGUNTILOYE AKINDELE,International institute for tropical agriculture (IITA),"oyo road,ide-oshe Ibadan, Oyo-state.",0805 064 4987
+Adepoju William,Federal Airport Authority of Nigeria,"Airport road, Ikeja, Lagos",08023744908 - Mr Uzor
+Igbo Ebuka Gideon,Banex Beach Hotel and Resort,"3/5 Okunde blue water tourism, opp glitz events, off remi olowude str, 2nd roundabout , Lekki phase I",08038277204  Mr. Silas
+Eric Vondee,ARK INSURANCE BROKERS,"NO 25, Karimu Kotun Street, Victoria Island, Lagos.",8035138475
+OYEYEMI SUNDAY O.,CHRISA CREATIONS,"Alumni Building, FUTA",8034239961
+Obaloluwa Olusoji,First City Monument Bank,"10/12 Remi Fani Kayode, Ikeja GRA, Lagos.",8098404878
+Oyeleke Adedayo,Kellog's,"Ajah, Lagos",8094609894
+Ogunlola O. Yetunde,Bifun Nigeria Limited,"Suite 9 Ijapo multipurpose Complex,Ondo Avenue Ijapo Estate, Akure. Ondo state",8189095700
+Mrs olasinde ,Excellium Consulting Services ,"Plot 4, Block B8, CMD/Jubilee Estate Road, Opposite Second coming Gas Plant, Magodo, Lagos.",8023053159
+Oluwayomi Oluwaseyi,Skylead Global Company,Futa SouthGate Ondo State Nigeria,8161749362
+Emoruwa Great Olasubomi ,Tigerlogic Solutions Limited ,"24b Amodu Tinaji Close, off Sanusi Fafunwa Street, Victoria Island, Lagos",0907 543 0668
+Enoch Andrew  (CSC/15/4063),Nigeria immigration service (CONTEC GLOBAL LTD),Igbatoro after customs office . Alagbaka. Akure,+234 803 392 1989
+Oladejo Samuel,Deeper Christian Life Ministry,Gbagada,7037631122
+Agboola Joshua,Bank of industry,"23 marina street, Lagos island",8037656773
+Usih Peter Chukwuyem,New Horizons system solutions,"1st avenue Mr biggs Building , beside Skye bank,festac town lagos state",08129687554 - Ugo
+Deinde Blessing,Kids & Teens Resource Centre(NGO),"Funmine Castle opposite Solab Suite Hotel along Futa Road, Akure",8035077737
+Anjorin Livingstone,"computer resource centre, futa. ",futa,8032205987
+Ajayi Emmanuel Olamilekan ,Birdview Group ,"14, Afolabi Aina Street, Off Allen Avenue, Ikeja, Lagos state Nigeria.",0805 325 7711
+Egbeolowo AbdulRahman Akorede ,Toptech Engineering limited ,"9, Oguntona Crescent, off Oworonsoki/ Gbagada, Oshodi St, Phase 1, Lagos",08145324447- Mr Seun
+Agamini Emmanuel,GreenLab Micro-Factory,"5, Stateline Road. FUTA South Gate. Akure, Ondo State.",+49 1521 6639947
+Ayeni Ayomide Elizabeth ,Logiciel information security solutions limited ,"Kudirat abiola way, NO 15a, Uwa close, oregun, Ikeja, Lagos state",8053167189
+Aratunde Tosin ,FaithHeroic Generation Enterprises,"No. 6, Ondo Bye-Pass, Akure",8109108377
+Adesanmi Adedayo Solomon,Softnotch Integrated,"2, Ajayi Aina Street opposite Deeper life HQ Ifako gbagada lagos",8095084957
+Adekoya Bunmi,Calm Global Information Technologies,"Dolphin Estate,Ikoyi,Lagos, Nigeria",0803 438 2402
+Akinnuli olumide oluwaseun ,Chams plc ,Ahmadu Bello way Victoria Island Lagos state Nigeria,09053936459- John Atomode
+Adebanjo Emmanuel,Ministry of The Environment and Water Resources,"The Secretariat, Alausa Ikeja",8022438755
+Folami Ayoola,Eko Electricity distribution Plc,"24/25, Marina, Lagos state",8129929178
+Ologuntoye Demilade,NASD PLC,"9th Floor, UBA House, 57 Marina, Lagos State",8053045024
+Adebiyi Adeyinka Emmanuel,Longbridge Technologies Akure,"300, Dalimoore Street, Ijapo Estate Akure.",9070223427
+Olawuyi Oluwanifemi Alice,Auxanosolutions technology limited,Ikeja lagos state,8108098421
+Aifegha peter,Inlaks limited(computers),Central business district FCT abuja,8033616092
+Jegede Bukola Folasade,Gems Consulting Company Limited.,"Plot 2D Obasa Road,Off Forte Oil Filling station,Oba Akran,Ikeja.",Mr Aramide Samuel - 08138490972
+Alake Monday Olawale,State Information Technology Agency ,"State Information Technology Agency Alagbaka, Akure, Ondo State",Mrs. Oyebode - 08060706401
